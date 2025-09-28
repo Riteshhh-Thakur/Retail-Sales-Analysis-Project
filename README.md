@@ -101,4 +101,18 @@ The goal is to help business stakeholders **optimize operations**, **improve cus
 
 ---
 
+## 🧾 Conclusion
+
+This retail store analysis project demonstrates how data can be leveraged to extract actionable business insights using **SQL** for data exploration and **Power BI** for visual storytelling. 
+
+Through careful data cleaning, structured querying, and visualization, we were able to:
+- Identify sales trends by time, category, customer behavior, and gender.
+- Highlight performance gaps across product categories and shifts.
+- Recommend data-driven strategies to improve customer engagement, optimize inventory, and maximize revenue.
+
+---
+
+## 📷 Preview
+
+<img width="1401" height="788" alt="Retail Store Analysis" src="https://github.com/user-attachments/assets/9ba29fcc-3964-413b-a6bc-9edb40e84a24" />
 
